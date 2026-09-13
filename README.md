@@ -17,8 +17,3 @@ This repository contains the Data Preprocessing and Exploratory Data Analysis (E
 * **IT25100002 Sarma S.S.L** - Normalization / scaling (Log Transformation and StandardScaler).
 * **IT23642096 Manathunge A.I** - Feature engineering / Dimension reduction (PCA for 2D visualization).
 
-## 🚀 How to Run the Code
-1. Unzip the `online+retail+ii.zip` file located in the `data/raw/` directory so the Excel file is available.
-2. Open the `group_pipeline.ipynb` to execute the entire integrated pipeline sequentially.
-3. Alternatively, open the individual notebooks in the `notebooks/` folder to view each member's specific preprocessing technique and EDA chart.
-4. Outputs will be saved automatically to `results/outputs/` and charts will display inline.
